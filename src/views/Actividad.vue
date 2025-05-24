@@ -225,7 +225,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Montaje Strobel.',
+              texto: 'Montaje <em>Strobel</em>.',
               esCorrecta: true,
             },
             {
