@@ -311,13 +311,13 @@ export default {
           nombre: 'Elkin Darío Fontecha Pard',
           cargo: 'Experto temático',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Paola Alexandra Moya',
           cargo: 'Evaluadora Instruccional',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -328,37 +328,37 @@ export default {
           nombre: 'Diana Milena Picón Rincón',
           cargo: 'Diseñador de Contenidos Digitales',
           centro:
-            'Regional Antioquia - Centro de Formación Centro de Servicios de Salud.',
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Cielo Damaris Angulo Rodriguez',
           cargo: 'Desarrollador Fullstack',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Alejandro Delgado Acosta',
           cargo: 'Intérprete Lenguaje de señas',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Cristhian Giovanni Gordillo Segura',
           cargo: 'Intérprete Lenguaje de señas',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Daniela Muñoz Bedoya',
           cargo: 'Animador y Productor Multimedia',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Andrés Felipe Guevara Ariza',
           cargo: 'Locución',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -369,25 +369,25 @@ export default {
           nombre: 'Aixa Natalia Sendoya Fernández',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Raúl Mosquera Serrano',
           cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
-            'Regional Huila - Centro Agroempresarial y Desarrollo Pecuario.',
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },

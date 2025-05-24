@@ -59,7 +59,7 @@
                     img(src='@/assets/curso/tema3/6.svg', alt='AvatarTop' style="max-width: 90px").mx-auto.mb-3
                     .bg-color-8.d-inline-block.px-2.py-1.mb-3
                       h4.text-center.mb-0.text-color-black #[strong Desarrollo de prototipos]
-                    p.text-center Se elaboran prototipos para verificar que el calzado cumple con las especificaciones técnicas del producto y se ajustas de ser necesario.
+                    p.text-center Se elaboran prototipos para verificar que el calzado cumple con las especificaciones técnicas del producto y se ajusta de ser necesario.
                   .tarjeta.bg-color-white.p-4.shadow-top-left-right.text-center
                     img(src='@/assets/curso/tema3/7.svg', alt='AvatarTop' style="max-width: 90px").mx-auto.mb-3
                     .bg-color-8.d-inline-block.px-2.py-1.mb-3
@@ -267,7 +267,7 @@
                 img(src="@/assets/curso/tema3/18.png", alt="").mb-4.mb-lg-0
   
       .titulo-tres.mb-4(data-aos="flip-up")
-        h4(data-aos="fade-up") Máquinas de coses utilizadas
+        h4(data-aos="fade-up") Máquinas de coser utilizadas
   
       p.mb-5 En la fabricación del calzado se emplean diferentes tipos de máquinas de coser, cada una diseñada para cumplir funciones específicas según la estructura y material del calzado.
       
@@ -327,7 +327,7 @@
               .row.pt-lg-4.align-items-center
                 .col-lg-8.mb-4.mb-lg-0
                   .pe-4
-                    h4 Montaje Strobel
+                    h4 Montaje <em>Strobel</em>
                     p.mt-4 Utilizado en calzado deportivo, consiste en coser la capellada a una plantilla flexible antes de añadir la suela, proporcionando mayor comodidad y flexibilidad.
                 .col-lg-4
                   img(src='@/assets/curso/tema3/23.png', style="max-width: 479px").mx-auto
@@ -335,8 +335,8 @@
               .row.pt-lg-4
                 .col-lg-8.mb-4.mb-lg-0
                   .pe-4
-                    h4 Montaje String
-                    p.mt-4 Variante del Strobel en la que la capellada se une a la plantilla mediante un cordón pasado a lo largo de su contorno, lo que otorga mayor resistencia y flexibilidad.
+                    h4 Montaje <em>String</em>
+                    p.mt-4 Variante del <em>Strobel</em> en la que la capellada se une a la plantilla mediante un cordón pasado a lo largo de su contorno, lo que otorga mayor resistencia y flexibilidad.
                 .col-lg-4
                   img(src='@/assets/curso/tema3/24.png', style="max-width: 479px").mx-auto
   

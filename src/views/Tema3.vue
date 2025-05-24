@@ -115,8 +115,8 @@
               h4.mb-5 Cuero plena flor
               p.mb-0 Es la capa más superficial de la piel, sin lijado ni alteraciones. Ofrece la  mejor calidad y máxima durabilidad. Se utiliza en calzado de lujo y tapicería.
                 
-            .tarjeta.color-acento-botones--borde.p-4(titulo="Cuero flor corregid")
-              h4.mb-5 Cuero flor corregid
+            .tarjeta.color-acento-botones--borde.p-4(titulo="Cuero flor corregido")
+              h4.mb-5 Cuero flor corregido
               p.mb-0 Ha sido lijado para eliminar imperfecciones y recibe un acabado artificial. Presenta una textura más uniforme. Se usa en calzado industrial y tapicería.
   
             .tarjeta.color-acento-botones--borde.p-4(titulo="Gamuza o ante")
@@ -125,11 +125,11 @@
   
             .tarjeta.color-acento-botones--borde.p-4(titulo="Nobuk")
               h4.mb-5 Nobuk
-              p.mb-0 Se produce lijando la capa superior del cuero. Tiene una textura similar A la gamuza, pero con mayor resistencia. Se Usa en botas y calzado elegante.
+              p.mb-0 Se produce lijando la capa superior del cuero. Tiene una textura similar A la gamuza, pero con mayor resistencia. Se usa en botas y calzado elegante.
   
             .tarjeta.color-acento-botones--borde.p-4(titulo="Cuero charol")
               h4.mb-5 Cuero charol
-              p.mb-0 Tratado con barniz o plástico para un acabado brillante. Ofrece una  apariencia llamativa y elegante. Se emplea en zapatos formales y de Fiesta.
+              p.mb-0 Tratado con barniz o plástico para un acabado brillante. Ofrece una  apariencia llamativa y elegante. Se emplea en zapatos formales y de fiesta.
   
       .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
         .col-lg-auto
@@ -286,10 +286,10 @@
             table
               thead
                 tr
-                  th.ajuste-border-tabla Concepto
-                  th.ajuste-border-tabla Concepto
-                  th.ajuste-border-tabla Concepto
-                  th Valor
+                  th.ajuste-border-tabla Tipo de fibra
+                  th.ajuste-border-tabla Origen
+                  th.ajuste-border-tabla Características
+                  th Usos en calzado
               tbody
                 tr
                   td.ajuste-border-tabla <strong>Algodón</strong>
