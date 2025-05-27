@@ -183,13 +183,13 @@
               ul.lista-ul--color
                 li 
                   i.fas.fa-check
-                  | #[strong Selección de piezas:] Identificación de las áreas a desbastar, como la suela, el corte o las uniones.
+                  | #[strong Selección de piezas:] identificación de las áreas a desbastar, como la suela, el corte o las uniones.
                 li 
                   i.fas.fa-check
-                  | #[strong Control de presión y grosor:] Aplicación precisa de la presión para evitar daños en el material.
+                  | #[strong Control de presión y grosor:] aplicación precisa de la presión para evitar daños en el material.
                 li 
                   i.fas.fa-check
-                  | #[strong Limpieza:] Eliminación de residuos generados antes de continuar con la fabricación.
+                  | #[strong Limpieza:] eliminación de residuos generados antes de continuar con la fabricación.
       
             .div(titulo="Herramientas utilizadas")
               p Uso de maquinaria desbastadora y cuchillas para lograr un acabado preciso.
@@ -364,18 +364,18 @@
           .bg-color-2.h-100
             .bg-color-11.px-4.px-lg-5.py-3
               h4.mb-0.text-center.text-white Tensado y <br>fijación
-            p.mb-0.p-4 Se estiran las pieza para eliminar arrugas y se fijan con clavos o adhesivos.
+            p.mb-0.p-4 Se estiran las piezas para eliminar arrugas y se fijan con clavos o adhesivos.
         .col-lg-3
           .bg-color-2.h-100
             .bg-color-11.px-4.px-lg-5.py-3
               h4.mb-0.text-center.text-white Unión de <br>la suela
-            p.mb-0.p-4 La suela se adhiere mediante pegado, costura o vulcanización, dependiendo del tipo de calzado.,
+            p.mb-0.p-4 La suela se adhiere mediante pegado, costura o vulcanización, dependiendo del tipo de calzado.
   
         .col-lg-3
           .bg-color-2.h-100
             .bg-color-11.px-4.px-lg-5.py-3
               h4.mb-0.text-center.text-white Prensado y moldeado final
-            p.mb-0.p-4 Se aplica calor y presión para mejorar la adherencia y dar el acabado final,
+            p.mb-0.p-4 Se aplica calor y presión para mejorar la adherencia y dar el acabado final.
   
       Separador
   
