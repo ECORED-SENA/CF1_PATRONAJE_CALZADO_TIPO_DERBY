@@ -384,7 +384,7 @@
   
       p.mb-5 Esta fase final garantiza que el calzado cumpla con los estándares de calidad y tenga un acabado estético adecuado antes de su distribución.
       
-      .bg-color-8.mb-5(data-aos="fade-up")
+      .bg-color-8.mb-5(data-aos="fade-down")
         .row.justify-content-center.align-items-center
           .col-lg-auto
             figure
